@@ -1,0 +1,14 @@
+{
+  "name": "node-assignment-3a",
+  "version": "1.0.0",
+  "description": "this for the nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.1.0"
+  }
+}
